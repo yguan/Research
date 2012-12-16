@@ -139,6 +139,14 @@ http://deftjs.org/
 
 https://github.com/cujojs/wire
 
+## Promising Frameworks
+
+[Ember.js](http://emberjs.com)
+
+[Knockback.js](http://kmalakoff.github.com/knockback)
+
+[Angular.js](http://angularjs.org/)
+
 ## Other Frameworks
 
 https://github.com/cujojs/curl
