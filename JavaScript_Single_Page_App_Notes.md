@@ -143,6 +143,10 @@ https://github.com/cujojs/wire
 
 [Ember.js](http://emberjs.com)
 
+* [Ember.js Architecture] (http://emberjs.com/guides/)
+
+* [Ember.js UI] (https://github.com/guilhermeaiolfi/emberjs-ui)
+
 [Knockback.js](http://kmalakoff.github.com/knockback)
 
 [Angular.js](http://angularjs.org/)
