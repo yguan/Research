@@ -1,5 +1,7 @@
 #The ideal single page JavaScript application
 
+A collection of notes and links on the topic of building a maintainable single page application with JavaScript.
+
 ## Style frameworks 
 
 http://compass-style.org/
@@ -119,11 +121,27 @@ If existing UI exist, look at the workflow and UI, see
 
 Look at UI design patterns for ideas
 
+## Dependency Injection
+
+http://docs.angularjs.org/guide/di
+
+http://blog.jankuca.com/post/23066002249/dependency-injection-javascript
+
+http://modernjavascript.blogspot.com/2012/10/dependency-injection-in-closure-ioc.html
+
+https://github.com/rhysbrettbowen/Loader
+
+http://maxpolun.com/js/2012/10/17/a_javascript_dependency_injection_framework_in_under_20_lines_of_code.html
+
+http://merrickchristensen.com/articles/javascript-dependency-injection.html
+
+http://deftjs.org/
+
+https://github.com/cujojs/wire
+
 ## Other Frameworks
 
 https://github.com/cujojs/curl
-
-https://github.com/cujojs/wire
 
 http://www.ubelly.com/2011/11/scalablejs/
 
