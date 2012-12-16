@@ -88,6 +88,9 @@ http://addyosmani.com/largescalejavascript/
 
 http://singlepageappbook.com/
 
+http://www.slideshare.net/mahemoff/webfirst-design-patterns
+http://softwareas.com/automagic-event-registration
+
 Configurable views and features in views – support responsive design
 
 State machine?
