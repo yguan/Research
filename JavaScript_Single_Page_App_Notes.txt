@@ -84,6 +84,7 @@ http://www.alexatnet.com/articles/model-view-controller-mvc-javascript
 
 http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 https://github.com/addyosmani/essential-js-design-patterns
+http://addyosmani.com/largescalejavascript/
 
 http://singlepageappbook.com/
 
@@ -111,6 +112,10 @@ Webdriver tests with ghostdriver for fast happy path tests
 Use setTimeout to control the delay time of Ajax calls to mimic network latency, which allow usability testing under slow network
 
 ================= Misc ================= 
+
+https://github.com/addyosmani/aura
+https://github.com/tbranyen/backbone.layoutmanager
+
 Cache deferred
 
 Lime.js  Meteor.js
