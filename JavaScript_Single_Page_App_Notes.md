@@ -59,17 +59,23 @@ http://angular-ui.github.com/
 ## Architecture
 
 http://developer.chrome.com/apps/app_frameworks.html
+
 http://code.google.com/p/mdv/
+
 http://addyosmani.com/blog/digesting-javascript-mvc-pattern-abuse-or-evolution/
+
 http://www.alexatnet.com/articles/model-view-controller-mvc-javascript
 
 http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
 https://github.com/addyosmani/essential-js-design-patterns
+
 http://addyosmani.com/largescalejavascript/
 
 http://singlepageappbook.com/
 
 http://www.slideshare.net/mahemoff/webfirst-design-patterns
+
 http://softwareas.com/automagic-event-registration
 
 Configurable views and features in views – support responsive design
@@ -97,6 +103,7 @@ Use setTimeout to control the delay time of Ajax calls to mimic network latency,
 ## Misc 
 
 https://github.com/addyosmani/aura
+
 https://github.com/tbranyen/backbone.layoutmanager
 
 Cache deferred
@@ -106,12 +113,11 @@ Lime.js  Meteor.js
 ## Gathering Requirement and Creating Mockups 
 
 If existing UI exist, look at the workflow and UI, see 
-what are essential?
-what improvements are needed?
-What can be removed?
+* What are essential?
+* What improvements are needed?
+* What can be removed?
 
 Look at UI design patterns for ideas
-
 
 ## Other Frameworks
 
@@ -120,9 +126,13 @@ https://github.com/cujojs/curl
 https://github.com/cujojs/wire
 
 http://www.ubelly.com/2011/11/scalablejs/
+
 http://en.wikipedia.org/wiki/Single-page_application
+
 http://www.youtube.com/watch?v=vXjVFPosQHw
+
 http://boilerplatejs.org/
+
 http://scaleapp.org/
 
 http://www.slideshare.net/rohitsghatol/building-single-page-applications
@@ -134,6 +144,7 @@ http://css-tricks.com/one-page-apps-i-actually-use/
 http://www.dzone.com/mz/dotnet
 
 http://qconsf.com/
+
 http://velocityconf.com/
 
 http://www.ibm.com/developerworks/rational/library/3100.html
